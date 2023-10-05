@@ -1,0 +1,66 @@
+.navbar{
+    width: 1030px;
+    height: 120px;
+    margin-top: 24px;
+    margin-left: 300px;
+    border-radius: 15px;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    background: #FFF;
+    display: flex;
+}
+
+.navbar h2{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family:  Semi Bold;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+.wel{
+    width: 849px;
+}
+.wel p{
+    margin-top: -30px;
+    padding-left: 16px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(117, 117, 117, 1)
+
+}
+
+.wel p u {
+    color: rgba(188, 0, 109, 1);
+}
+
+#style{
+    width: 167px;
+    height: 119px;
+    background: #fff;
+
+}
+
+#close {
+    width: 24px;
+    height: 24px;
+    margin-top: 8px;
+    margin-left: 20px;
+    padding: 6px;
+
+} 
